@@ -55,8 +55,8 @@ Forked from [Ocean Protocol Market](https://github.com/oceanprotocol/market)
 
 ## 📬 Contact
 
-- Twitter: [@YourTwitterHandle]
-- Email: your-email@example.com
+- Twitter: [@UJangmin95092]
+- Email: godid1004@kakao.com
 
 ---
 
