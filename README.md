@@ -26,7 +26,7 @@ This project is forked from [Ocean Protocol](https://github.com/oceanprotocol/ma
 ## 🚀 Roadmap
 
 - [x] Fork Ocean Protocol infrastructure
-- [ ] Deploy CHIMERA-001 (Founder's 1-year data)
+- [x] Deploy CHIMERA-001 (Founder's 1-year data)
 - [ ] Launch MVP marketplace
 - [ ] Onboard first 100 data providers
 - [ ] Reach $100K trading volume
@@ -62,3 +62,18 @@ Forked from [Ocean Protocol Market](https://github.com/oceanprotocol/market)
 
 **Building in public from Day 1.**  
 **Watch history being made.**
+
+## 🎉 CHIMERA-001 LIVE
+
+The world's first IVT is now minted and listed on OpenSea.
+
+**View on OpenSea:** [CHIMERA-001](https://opensea.io/item/polygon/0xc46bbceade85d1cda5572a6716b8b55bd5b697dc/1)
+
+**Details:**
+- Price: 3 WETH ($13,400)
+- Blockchain: Polygon
+- Minted: October 8, 2025
+- Token Standard: ERC-1155
+
+**This is Day 1 of the data sovereignty revolution.**
+
