@@ -33,7 +33,15 @@ This project is forked from [Ocean Protocol](https://github.com/oceanprotocol/ma
 
 ## 📖 Documentation
 
-Full technical whitepaper: [Coming Soon]
+**Whitepaper:** [Download PDF](./docs/CHIMERA_Protocol_Whitepaper_v2.0_Oct2025.pdf) | [View Online](./docs/whitepaper.md)
+
+**Technical Specs:**
+- Protocol GDP Model
+- Proof-of-Value Engine
+- IVT Token Economics
+- Multi-Chain Architecture
+
+**Last Updated:** October 2025
 
 ## 🤝 Contributing
 
